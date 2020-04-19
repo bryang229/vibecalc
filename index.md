@@ -1,8 +1,6 @@
-<!DOCTYPE html>
 <html>
   <head> <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 
-    </head>
   <style>
     .background{ background-image: url(https://ih1.redbubble.net/image.937470579.1980/flat,750x,075,f-pad,750x1000,f8f8f8.jpg); 
     background-size: 200px 200px;
@@ -41,6 +39,4 @@
   <!-- i dont get why its not working -->
   <td><input type ="button" class= "button" value="=" onClick="document.calculator.ans.value=eval(document.calculator.ans.value)"> </td>
   <td><input type="reset" class="button1" value"reset" </td><br>
-  </form>
-  </div>
-  </html>
+
